@@ -9,9 +9,9 @@
   - 💥 **Coordinator, Presentation team for Aarohan'25.**
 - 💬 Ask me about: **HTML, CSS, JavaScript, C, python and Financial growth.**
 
-![Profile views](https://komarev.com/ghpvc/?username=Mehren7-tech&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/Mehren7?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Mehren7?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=PaddanaBhargavi407-tech&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/PaddanaBhargavi407?style=social)
+![GitHub stars](https://img.shields.io/github/stars/PaddanaBhargavi407?style=social)
 
 ---
 
