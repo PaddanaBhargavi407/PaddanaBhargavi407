@@ -4,7 +4,6 @@
 - 👩‍💻 Pursuing **ECE** from KPRIT (2026 batch).
 - 🌱 Currently improving **DSA** and working on **Web Development**.
 - 🏆 Recent Achievements:
-  - 🥈 **Semi-finalist, Smart Internz & NASSCOM'25! Hackton. Amongst top 50 teams out of 200 teams.**
   - 🌟 **Head Coordinator, Tech fest for Aarohan'24.**
   - 💥 **Coordinator, Presentation team for Aarohan'25.**
 - 💬 Ask me about: **HTML, CSS, JavaScript, C, python and Financial growth.**
@@ -102,26 +101,24 @@
 ---
 
 ### 🌐 Social Media & Platforms
-<a href="https://www.linkedin.com/in/mehren-ansari" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/paddana-bhargavi" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/> 
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
 
-<a href="https://github.com/Mehren7" target="_blank" rel="noreferrer">
+<a href="https://github.com/PaddanaBhargavi407" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> 
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
-<a href="mailto:mehrenansari03@gmail.com" target="_blank" rel="noreferrer">
+<a href="mailto:bhargavipaddana@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="30" height="30"/>
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/sleepy_.eyes.__" target="_blank" rel="noreferrer">
+<a href="https://www.instagram.com/bhargavi_2411" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="30" height="30"/> 
 </a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/mehrenansari03" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="30" height="30"/> 
-</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+
 
 
 ![snake svg](https://github.com/PaddanaBhargavi407/PaddanaBhargavi407/blob/output/github-contribution-grid-snake.svg).
